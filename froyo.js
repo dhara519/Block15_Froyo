@@ -13,7 +13,6 @@ function filterPush() {
 console.log(filterPush(chosenFlavors));
 
 // Another Answer
-
 // function filterPush() {
 //   let table = {};
 //   for (let i = 0; i < chosenFlavors.length; i++) {
@@ -22,5 +21,4 @@ console.log(filterPush(chosenFlavors));
 //   }
 //   return table;
 // }
-
 // console.log(filterPush(chosenFlavors));
